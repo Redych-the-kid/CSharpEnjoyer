@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okifqM9ynY2W10vM9TIf5Dwk4EvCCsngK1ZQwF5Mt5JhgwmRSrrpApBFcxDclz9yK9cfCDZzuvw6mJQ2slGcUg==",
+  "success": true,
+  "projectFilePath": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj",
+  "expectedPackageFiles": [
+    "/home/opezdal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

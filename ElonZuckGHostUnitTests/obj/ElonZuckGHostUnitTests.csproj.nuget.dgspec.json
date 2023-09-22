@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHostUnitTests/ElonZuckGHostUnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/ElonZuckGHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/ElonZuckGHost.csproj",
+        "projectName": "ElonZuckGHost",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/ElonZuckGHost.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj": {
+                "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHostUnitTests/ElonZuckGHostUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHostUnitTests/ElonZuckGHostUnitTests.csproj",
+        "projectName": "ElonZuckGHostUnitTests",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHostUnitTests/ElonZuckGHostUnitTests.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHostUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/ElonZuckGHost.csproj": {
+                "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/ElonZuckGHost/ElonZuckGHost.csproj"
+              },
+              "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj": {
+                "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj",
+        "projectName": "Strategies",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/Strategies.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckGHost/Strategies/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
