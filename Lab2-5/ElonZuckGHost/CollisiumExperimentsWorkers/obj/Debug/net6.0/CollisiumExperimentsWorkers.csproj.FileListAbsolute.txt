@@ -1,0 +1,17 @@
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/CollisiumExperimentsWorkers.deps.json
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/CollisiumExperimentsWorkers.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/ref/CollisiumExperimentsWorkers.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/CollisiumExperimentsWorkers.pdb
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/Strategies.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/Strategies.pdb
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.xml
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.csproj.AssemblyReference.cache
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.GeneratedMSBuildEditorConfig.editorconfig
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.AssemblyInfoInputs.cache
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.AssemblyInfo.cs
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.csproj.CoreCompileInputs.cache
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.csproj.CopyComplete
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/ref/CollisiumExperimentsWorkers.dll
+/home/opezdal/RiderProjects/ElonZuckGHost/CollisiumExperimentsWorkers/obj/Debug/net6.0/CollisiumExperimentsWorkers.pdb

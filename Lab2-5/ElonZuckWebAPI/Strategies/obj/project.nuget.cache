@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "avG9IOofqJ1NXMnf4O2FuF6K34oaERRaTSn7awafWC+tYvSONeSlEt8FuPIwq2R1l+iyVmjG13dn55DF1E0Qow==",
+  "success": true,
+  "projectFilePath": "/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/Strategies.csproj",
+  "expectedPackageFiles": [
+    "/home/opezdal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

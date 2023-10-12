@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1nh3AkWnCbU4LojI6Hrtmoj53ms/1xiJkoYGRmI6Y+CtPNgQBweM0tCNu3LRs1YIpwslLJYOHuKQvGrFXFvMQ==",
+  "success": true,
+  "projectFilePath": "/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/Gods.csproj",
+  "expectedPackageFiles": [
+    "/home/opezdal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

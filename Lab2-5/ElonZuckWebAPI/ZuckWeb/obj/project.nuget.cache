@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYWum30huMPaOv3xfqZEh9GM5Ki9sgjGk/FgW+aIInX5j4LqC0nM5jU3io0GCFQ+gKUo1W7YqHJFoEkQu7sUVA==",
+  "success": true,
+  "projectFilePath": "/home/opezdal/RiderProjects/ElonZuckWebAPI/ZuckWeb/ZuckWeb.csproj",
+  "expectedPackageFiles": [
+    "/home/opezdal/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/opezdal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

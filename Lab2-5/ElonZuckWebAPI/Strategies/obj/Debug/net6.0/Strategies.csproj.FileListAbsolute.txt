@@ -1,0 +1,12 @@
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/bin/Debug/net6.0/Strategies.deps.json
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/bin/Debug/net6.0/Strategies.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/bin/Debug/net6.0/ref/Strategies.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/bin/Debug/net6.0/Strategies.pdb
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.csproj.AssemblyReference.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.GeneratedMSBuildEditorConfig.editorconfig
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.AssemblyInfoInputs.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.AssemblyInfo.cs
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.csproj.CoreCompileInputs.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/ref/Strategies.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Strategies/obj/Debug/net6.0/Strategies.pdb

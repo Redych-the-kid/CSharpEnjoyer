@@ -1,0 +1,15 @@
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/Gods
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/Gods.deps.json
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/Gods.runtimeconfig.json
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/Gods.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/ref/Gods.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/bin/Debug/net6.0/Gods.pdb
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.csproj.AssemblyReference.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.GeneratedMSBuildEditorConfig.editorconfig
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.AssemblyInfoInputs.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.AssemblyInfo.cs
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.csproj.CoreCompileInputs.cache
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/ref/Gods.dll
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.pdb
+/home/opezdal/RiderProjects/ElonZuckWebAPI/Gods/obj/Debug/net6.0/Gods.genruntimeconfig.cache
