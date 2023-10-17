@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/opezdal/RiderProjects/ElonZuckMasstransit/ZuckMT/ZuckMT.csproj": {}
+  },
+  "projects": {
+    "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/Contracts.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/Strategies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/Strategies.csproj",
+        "projectName": "Strategies",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/Strategies.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/opezdal/RiderProjects/ElonZuckMasstransit/ZuckMT/ZuckMT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/opezdal/RiderProjects/ElonZuckMasstransit/ZuckMT/ZuckMT.csproj",
+        "projectName": "ZuckMT",
+        "projectPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/ZuckMT/ZuckMT.csproj",
+        "packagesPath": "/home/opezdal/.nuget/packages/",
+        "outputPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/ZuckMT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/opezdal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/Contracts.csproj": {
+                "projectPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/Contracts.csproj"
+              },
+              "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/Strategies.csproj": {
+                "projectPath": "/home/opezdal/RiderProjects/ElonZuckMasstransit/Strategies/Strategies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.2-develop.1560, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.122/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
