@@ -1,0 +1,12 @@
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/bin/Debug/net6.0/Contracts.deps.json
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/bin/Debug/net6.0/Contracts.dll
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/bin/Debug/net6.0/ref/Contracts.dll
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/bin/Debug/net6.0/Contracts.pdb
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.csproj.AssemblyReference.cache
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfoInputs.cache
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.AssemblyInfo.cs
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.csproj.CoreCompileInputs.cache
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.dll
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/ref/Contracts.dll
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Contracts/obj/Debug/net6.0/Contracts.pdb
