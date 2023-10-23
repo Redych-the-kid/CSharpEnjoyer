@@ -1,11 +1,12 @@
 ﻿using Contracts;
-using Gods.Consumers;
 using MassTransit;
 
 namespace Gods;
 
 public class Program
 {
+    private static int sucessCount;
+
     public static async Task Main(string[] args)
     {
         var cards = new int[36];
@@ -22,15 +23,12 @@ public class Program
                 h.Username("guest");
                 h.Password("guest");
             });
-            sbc.ReceiveEndpoint("new_queue_3", ep =>
-            {
-                ep.Consumer<ReadyMessageConsumer>();
-            });
         });
         bus.Start();
         var sendPoint1 = await bus.GetSendEndpoint(new Uri("rabbitmq://localhost/new_queue"));
         var sendPoint2 = await bus.GetSendEndpoint(new Uri("rabbitmq://localhost/new_queue_2"));
-        for (int i = 0; i < 20; i++)
+        int experimentsCount = 100;
+        for (int i = 0; i < experimentsCount; i++)
         {
             Fill(cards);
             shuffler = new DeckShuffler();
@@ -45,13 +43,30 @@ public class Program
             {
                 Deck = string.Join(";", zuccCards)
             });
-            Thread.Sleep(500);
+            var elonColor = await getColor(5001);
+            var zuckColor = await getColor(5002);
+            if (elonColor == zuckColor)
+            {
+                Console.WriteLine($"{i}: Sucess!");
+                sucessCount++;
+            }
+            else
+            {
+                Console.WriteLine($"{i}: Failure!");
+            }
         }
-        Console.WriteLine(ExperimentsResults.Count);
-        Console.WriteLine(ExperimentsResults.SucessCount);
-        var result = (float)ExperimentsResults.SucessCount / ExperimentsResults.Count * 100;
+        var result = (float)sucessCount / experimentsCount * 100;
         Console.WriteLine(result + " %");
         bus.Stop();
+    }
+
+    private static async Task<int> getColor(int port)
+    {
+        using HttpClient client = new HttpClient();
+        using HttpResponseMessage responce1 = await client.GetAsync($"http://127.0.0.1:{port}/getcolor");
+        responce1.EnsureSuccessStatusCode();
+        int responceBody1 = Convert.ToInt32(await responce1.Content.ReadAsStringAsync());
+        return responceBody1;
     }
     private static void Fill(int[] array)
     {

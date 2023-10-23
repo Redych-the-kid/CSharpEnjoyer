@@ -103,6 +103,14 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[8.1.2-develop.1560, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
             }
           },
           "imports": [

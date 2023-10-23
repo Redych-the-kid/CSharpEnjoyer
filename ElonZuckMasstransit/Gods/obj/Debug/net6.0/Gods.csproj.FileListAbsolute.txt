@@ -32,3 +32,5 @@
 /home/opezdal/RiderProjects/ElonZuckMasstransit/Gods/obj/Debug/net6.0/ref/Gods.dll
 /home/opezdal/RiderProjects/ElonZuckMasstransit/Gods/obj/Debug/net6.0/Gods.pdb
 /home/opezdal/RiderProjects/ElonZuckMasstransit/Gods/obj/Debug/net6.0/Gods.genruntimeconfig.cache
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Gods/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/opezdal/RiderProjects/ElonZuckMasstransit/Gods/bin/Debug/net6.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
